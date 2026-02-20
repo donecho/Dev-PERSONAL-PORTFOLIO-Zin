@@ -134,7 +134,7 @@ export const Hero = () => {
 
             {/* CTA */}
             <div className="flex flex-wrap gap-4">
-              <a href="/public/ZinPhyoThant_Resume.pdf">
+              <a href="/ZinPhyoThant_Resume.pdf">
 
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5" />
@@ -174,7 +174,7 @@ export const Hero = () => {
 
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="/public/projects/image/profile-photo.jpg"
+                  src="/projects/image/profile-photo.jpg"
                   alt="Zin Phyo Thant"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />

@@ -14,7 +14,7 @@ const projects = [
     title: "Library-System",
     description:
       " Library Collections is a modern web-based library management system that allows users to browse and manage book collections efficiently. The application provides a clean and responsive user interface with role-based access control for administrative management. This project demonstrates full CRUD functionality, structured component architecture, and secure authentication handling.Key: User Feature: View Book Collection,Search Books, Download PDF, Fully Responsive Design | Admin Panel: CRUD books and Manage overall library data like user data, Notes: admin@gmail.com and Admin1234 can check admin panel",
-    image: "/public/projects/image/lib.png",
+    image: "/projects/image/lib.png",
     tags: ["React","TailwindCSS, Reacter Router DOM","State Management - Context API, Zustand", 
       "Backend - Nodje.js,Express, MognoDB",
       "Deploy with vercel"
@@ -27,7 +27,7 @@ const projects = [
     title: "Saas Dashboard",
     description:
       "A modern SaaS Admin Dashboard web application built with modern frontend technologies, designed to provide a responsive, data-driven interface for managing users, analytics, reports, and system controls. The dashboard emphasizes clean UI design, scalable structure, and reusable components — ideal for real-world admin or SaaS applications supporting business operations.",
-    image: "/public/projects/image/sass.png",
+    image: "/projects/image/sass.png",
     tags: ["Frontend - Vue.js / React / Next.js","Icons & UI -Lucide, Heroicons or similar", "State Management - Redux / Context API / Vue Composition API"],
     link: "https://sass-admin-dashboard-pali.vercel.app/",
     github: "https://github.com/donecho/sass-admin-dashboard",
