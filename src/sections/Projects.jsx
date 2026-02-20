@@ -36,7 +36,7 @@ const projects = [
     title: "Persoanl Portfolio Website",
     description:
       "A modern, responsive portfolio website built with React, TVite, and Tailwind CSS. Features smooth animations and project showcase. Key - Responsive Design, Contact Form Intergration",
-    image: "/projects/project4.png",
+    image: "#",
     tags: ["React","Vite","Tailwind"],
     link: "https://your-weather-app.netlify.app/",
     github: "https://github.com/yourusername/weather-app",
@@ -45,7 +45,7 @@ const projects = [
     title: "Real-Time Weather",
     description:
       "A weather application that provides real-time weather data using OpenWeatherMap API. Features location-based weather, 5-day forecast, and responsive design. Key Features: Real-Time weather data nd Location-based forecasts",
-    image: "/projects/project4.png",
+    image: "#",
     tags: ["React","OpenWeatherMap API","CSS3","Chart.js"],
     link: "https://your-weather-app.netlify.app/",
     github: "https://github.com/yourusername/weather-app",
@@ -54,7 +54,7 @@ const projects = [
     title: "Food Ordering Web",
     description:
       "A full-stack food ordering web application that enables users to browse menus, select food items, add them to a cart, and complete orders seamlessly. Built with modern frontend and backend technologies, it showcases real-world capabilities such as responsive UI, dynamic data interaction, and user-centric design.",
-    image: "/projects/project4.png",
+    image: "#",
     tags: ["React/Vue/Next.js/Thaiwind CSS/Vite","Node.js,Express","MongoDB","JWT","Vercel"],
     link: "https://food-ordering-system.onrender.com/",
     github: "https://github.com/yourusername/food-ordering-system/",
