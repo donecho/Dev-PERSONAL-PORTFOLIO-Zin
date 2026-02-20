@@ -134,7 +134,7 @@ export const Hero = () => {
 
             {/* CTA */}
             <div className="flex flex-wrap gap-4">
-              <a href="/ZinPhyoThant_Resume.pdf">
+              <a href="/ZinPhyoThant_Resume.pdf" download>
 
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5" />

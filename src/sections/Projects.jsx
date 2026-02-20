@@ -5,7 +5,7 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A modern, fully responsive fashion ecommerce web application built with Next.js + React, showcasing a dynamic product catalog, interactive UI, and seamless shopping experience. This project demonstrates my ability to design and implement real-world features such as product browsing, category filtering, shopping cart, checkout flows, and user-friendly UI — while prioritizing performance, responsiveness, and usability across devices.",
-    image: "/public/projects/image/fashion.png",
+    image: "/projects/image/fashion.png",
     tags: ["React/Next.js", "Thaiwind", "Lucide-React", "Vercel"],
     link: "https://ecommerce-fashion-5id2xlys2-done-chos-projects.vercel.app/",
     github: "https://github.com/donecho/Ecommerce-Fashion-X",
