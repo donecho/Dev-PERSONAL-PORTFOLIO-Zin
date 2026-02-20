@@ -3,7 +3,7 @@ const experiences = [
   {
     period: "2025 - Frontend Lead, Hybrid (Thailand)",
     role: "Frontend Engineer",
-    company: "Digital Solutions Co.",
+    company: "SEC STRIKE CO., LTD.",
     description:
       "Built and maintained multiple React applications for enterprise clients. Introduced automated testing practices that improved code coverage to 85%.",
     technologies: ["React", "Redux", "Jest", "Nodejs"],
