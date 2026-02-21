@@ -42,15 +42,6 @@ const projects = [
     github: "https://github.com/yourusername/weather-app",
   },
   {
-    title: "Real-Time Weather",
-    description:
-      "A weather application that provides real-time weather data using OpenWeatherMap API. Features location-based weather, 5-day forecast, and responsive design. Key Features: Real-Time weather data nd Location-based forecasts",
-    image: "#",
-    tags: ["React","OpenWeatherMap API","CSS3","Chart.js"],
-    link: "https://your-weather-app.netlify.app/",
-    github: "https://github.com/yourusername/weather-app",
-  },
-  {
     title: "Food Ordering Web",
     description:
       "A full-stack food ordering web application that enables users to browse menus, select food items, add them to a cart, and complete orders seamlessly. Built with modern frontend and backend technologies, it showcases real-world capabilities such as responsive UI, dynamic data interaction, and user-centric design.",
